@@ -1,3 +1,0 @@
-sudo apt install python3-tk
-sudo pip3 install mutagen
-sudo pip3 install pygame
